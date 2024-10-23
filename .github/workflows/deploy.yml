@@ -3,7 +3,7 @@ name: Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - main # デプロイしたいブランチ（通常はmain）
+      - main # デプロイしたいブランチーーー（通常はmain）
 
 jobs:
   deploy:
